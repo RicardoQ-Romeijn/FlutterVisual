@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_travel_concept/screens/main_screen.dart';
+import 'screens/main_screen.dart';
 
 void main() async {
   runApp(MyApp());

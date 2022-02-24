@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_travel_concept/util/places.dart';
-import 'package:flutter_travel_concept/widgets/horizontal_place_item.dart';
-import 'package:flutter_travel_concept/widgets/vertical_place_item.dart';
+import '../util/movies.dart';
+import '../widgets/horizontal_place_item.dart';
+import '../widgets/vertical_place_item.dart';
 
 class Home extends StatelessWidget {
   @override

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_travel_concept/screens/home.dart';
+import 'home.dart';
 
 class MainScreen extends StatefulWidget {
   @override
